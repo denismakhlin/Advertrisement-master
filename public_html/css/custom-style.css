@@ -136,7 +136,7 @@ border-radius: 15px;
     color: white;
 }
 #collapseOne {
-    background-image: url(https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQ3GavLhiVysePHNYdffXlfOmWvmvj7y1voS6HwVbCFlUaLFRfyvg); no-repeat center center fixed; 
+  background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -150,7 +150,7 @@ border-radius: 15px;
     border: #F85959;
 }
 #collapseTwo {
-    background-image: url(http://wallpaperscraft.com/image/background_faded_stains_light_47125_640x360.jpg); no-repeat center center fixed; 
+    background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -162,7 +162,7 @@ body {
   position: relative;
 }
 #collapseThree {
-    background-image: url(http://wallpaperscraft.com/image/spots_background_faded_51784_1920x1440.jpg); no-repeat center center fixed; 
+     background-color: black;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -266,7 +266,11 @@ padding-left: 10;
     font-size: 10px;
 }
 #macpic {
-    margin-left: 500;
+    margin-left: 20;
+    margin-right: 30;
+}
+#iphonepic {
+    margin-left: 380;
 }
 #pdeals {
     text-align: center;
@@ -285,4 +289,78 @@ padding-left: 10;
     text-align: center;
     color: white;
     margin-top: 100;
+}
+#facebook {
+    color: white;
+    transition: background 0.5s linear 0s, color 0.5s linear 0s;
+}
+#facebook:hover {
+    color: #3b5998;
+}
+#twitter {
+    color: white;
+    transition: background 0.5s linear 0s, color 0.5s linear 0s;
+}
+#twitter:hover {
+    color: #1dcaff;
+}
+#instagram {
+    color: white;
+    transition: background 0.5s linear 0s, color 0.5s linear 0s;
+}
+#instagram:hover {
+    color: burlywood;
+}
+#googleplus {
+    color: white;
+    transition: background 0.5s linear 0s, color 0.5s linear 0s;
+}
+#googleplus:hover {
+    color: #dd4b39;
+}
+#github {
+    color: white;
+    transition: background 0.5s linear 0s, color 0.5s linear 0s;
+}
+#github:hover {
+    color: limegreen;
+}
+#skype {
+    color: white;
+    transition: background 0.5s linear 0s, color 0.5s linear 0s;
+}
+#skype:hover {
+    color: #1dcaff;
+}
+#iconsindex {
+    color: white;
+    transition: background 0.5s linear 0s, color 0.5s linear 0s;
+}
+#iconsindex:hover {
+    color: #F85959;
+}
+#danger {
+    color: #F85959;
+}
+#zone {
+    color: #F85959;
+}
+#pindex3 {
+    color: white;
+}
+#pindex2 {
+    color: #F85959;
+}
+#indexlink {
+    color: white;
+    transition: background 0.5s linear 0s, color 0.5s linear 0s;
+}
+#indexlink:hover {
+    color: #F85959;
+}
+#header {
+    margin-bottom: 5;
+}
+#footerindex {
+    text-align: center;
 }
